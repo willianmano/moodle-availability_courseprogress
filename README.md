@@ -2,7 +2,7 @@
 
 # Moodle availability courseprogress repository
 
-    This plugin allows teachers to add activities with restriction based on the student course completion progress. For instance, allow access to a certificate activity only when the student completes at least 70% of the course activities.
+This plugin allows teachers to add activities with restriction based on the student course completion progress. For instance, allow access to a certificate activity only when the student completes at least 70% of the course activities.
  
 ### Installation
 
