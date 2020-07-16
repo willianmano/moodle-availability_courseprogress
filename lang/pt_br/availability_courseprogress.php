@@ -24,7 +24,7 @@
 
 $string['pluginname'] = 'Restrição por progresso no curso';
 $string['title'] = 'Progresso no curso';
-$string['description'] = 'Exibe que os estudantes tenham concluído um percentual do curso.';
+$string['description'] = 'Exige que os estudantes tenham concluído um percentual do curso.';
 $string['fieldlabel'] = 'Progresso no curso: ';
 $string['validnumber'] = 'Você precisa adicionar um número maior que 0 e menor ou igual a 100.';
 $string['requires_finish'] = 'você precisa concluir pelo menos <strong>{$a}%</strong> do curso';
